@@ -1,0 +1,23 @@
+#class{
+    
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+
+}
+#class1{
+    width: 100%;
+    border: 5px solid white;
+}
+*{
+    background-color: black;
+}
+h1{
+    font-family:  "Libre Baskerville", serif;
+    text-transform: capitalize;
+    color: aliceblue;
+    text-shadow: 5px 4px 10px blue;
+    font-size: 2rem;
+}
+p{ color: white;}
